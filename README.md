@@ -26,8 +26,6 @@ Projeto base para explicação de escrita de testes unitários e widget em Flutt
 
 ### Rodar os testes
 
-<br>
-
 - Vá no arquivo de teste (TODO ARQUIVO DE TESTE deve terminar com _test) e clique no 'run' que irá aparecer acima do método (Group ou Test) ou na função main
 
                             OU
