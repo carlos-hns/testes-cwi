@@ -2,20 +2,14 @@
 
 Projeto base para explicação de escrita de testes unitários e widget em Flutter
 
-<hr>
-<br/>
-
 ## Build
 
 - Faça download do repositório
 - Tenha o ambiente configurado do Flutter (SDK + Extensões)
 
-<br/>
 <hr>
 
 ### Rodar o código visualmente:
-
-<br>
 
 - Vá no arquivo main.dart e clique no 'run' que irá aparecer acima da função main
 
