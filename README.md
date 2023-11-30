@@ -1,16 +1,41 @@
-# testes_cwi
+# Testes em Flutter (CWI)
 
-A new Flutter project.
+Projeto base para explicação de escrita de testes unitários e widget em Flutter
 
-## Getting Started
+<hr>
+<br/>
 
-This project is a starting point for a Flutter application.
+## Build
 
-A few resources to get you started if this is your first Flutter project:
+- Faça download do repositório
+- Tenha o ambiente configurado do Flutter (SDK + Extensões)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br/>
+<hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Rodar o código visualmente:
+
+<br>
+
+- Vá no arquivo main.dart e clique no 'run' que irá aparecer acima da função main
+
+                            OU
+
+- Rode no DEBUG mode (Vai pedir para criar um launch.json)
+
+                            OU
+
+- Digite: flutter run no terminal (Dentro da pasta do projeto)
+
+<br/>
+<hr>
+
+### Rodar os testes
+
+<br>
+
+- Vá no arquivo de teste (TODO ARQUIVO DE TESTE deve terminar com _test) e clique no 'run' que irá aparecer acima do método (Group ou Test) ou na função main
+
+                            OU
+
+- Digite: flutter test (Para rodar todos os testes) ou flutter test NOME/DIRETORIO para rodar testes específicos
